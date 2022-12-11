@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "dotenv": "^8.1.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.17.0",
     "openid-client": "^3.7.3",
     "passport": "^0.4.0"
